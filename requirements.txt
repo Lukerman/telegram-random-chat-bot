@@ -1,0 +1,10 @@
+# Core dependencies
+aiogram==3.4.1
+motor==3.3.2
+python-dotenv==1.0.1
+
+# Utilities
+aiofiles==23.2.1
+
+# Optional but recommended
+dnspython==2.5.0  # For MongoDB SRV connection strings
